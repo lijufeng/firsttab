@@ -2,7 +2,7 @@
 //  SecondViewController.h
 //  firsttab
 //
-//  Created by juzi on 13-7-2.
+//  Created by juzi on 13-7-3.
 //  Copyright (c) 2013年 CreditEase Wealth Management (Beijing) Co., LTD. All rights reserved.
 //
 
